@@ -23,7 +23,7 @@ Requirements
 Installation
 ------------
 
-1. Clone this repository: `git clone https://github.com/your-username/bookstore-gui.git`
+1. Clone this repository: `git clone https://github.com/ZeusGenius/Bookstore.git`
 2. Install required libraries: `pip install -r requirements.txt`
 3. Create a MySQL database and populate it with book data
 4. Update the `gui.py` file with your database credentials
